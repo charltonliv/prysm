@@ -22,6 +22,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 - Refactor RPC handlers subscriptions.
 - Go deps upgrade, from `ioutil` to `io`
 - Move successfully registered validator(s) on builder log to debug.
+- fix: `math/rand` to `crypto/rand`
 
 ### Deprecated
 
